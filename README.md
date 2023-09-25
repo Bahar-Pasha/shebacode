@@ -1,2 +1,2 @@
-![image](https://github.com/Bahar-Pasha/shebacode/assets/127425854/934ee704-bdb3-4884-826a-ea77136006a9)# shebacode
+#shebacode
 This repository contains a Python script for web scraping, which extracts banking card numbers and converts them into Sheba codes. A Sheba code, also known as the Iranian bank account ID, is a 24-digit number that uniquely identifies a bank account within Iran's entire banking system. The determination and specification of the Iranian bank account identifier (Sheba) adhere to the ISO-13616 standard
